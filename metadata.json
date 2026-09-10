@@ -1,0 +1,7 @@
+{
+  "name": "Barewa MarketPlace",
+  "description": "Marché en ligne souverain et intelligent pour le Niger, intégrant Mobile Money, IA générative pour vendeurs, recherche vectorielle pgvector et livraison TAK TAK TAXI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
